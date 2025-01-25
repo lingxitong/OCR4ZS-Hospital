@@ -1,7 +1,7 @@
 # OCR4ZS-Hospital
 OCR scripts for WSI rename of ZS-Hospital
 
-## rename pipeline
+## Rename Pipeline
 ### 1.get label images from sdpc
 `python get_ocr_jpg_menitor.py`
 
